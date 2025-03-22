@@ -8,8 +8,8 @@
 [Uu]ser[Ss]ettings/
 
 # Ignore the folder which contains assets that cannot be publicly distributed. 
-# Assets/Private/*
-# !Assets/Private/.git
+Assets/Private/*
+!Assets/Private/.git
 
 Assets/Samples/
 Assets/TutorialInfo/
