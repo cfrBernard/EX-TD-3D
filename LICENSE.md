@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Asset Acknowledgement
+
+Some assets used in this project are provided by third parties and are subject to their own licenses. **These assets cannot be redistributed**. Even if the assets have been modified, they are still subject to the original license and cannot be redistributed.
+
+- [...]
+- [...]
+
+For more information on the specific licenses of these assets, please refer to the original asset sources.
